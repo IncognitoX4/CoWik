@@ -1,1 +1,1 @@
-Welcome to the Dictionary-App wiki!
+# Welcome to Cowik wiki
