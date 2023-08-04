@@ -16,6 +16,8 @@
 <summary>Python snippets</summary>
 </details>
 <summary>Click to expand</summary>
+
+
 ***
 3
 
