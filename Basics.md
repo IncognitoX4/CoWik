@@ -30,6 +30,20 @@ level at a time:
 ### Another Heading 3
 ```
 
+
+>this text is inside of a blockquote
+- Im a
+- Bullet
+- List
+
+
+> :warning: **Warning:** Do not push the big red button.
+
+> :memo: **Note:** Sunrises are beautiful.
+
+> :bulb: **Tip:** Remember to appreciate the little things in life
+
+
 # Headings represent the structure of a document and can be confusing
 when skipped
 # Fenced code block
