@@ -30,6 +30,9 @@ level at a time:
 ### Another Heading 3
 ```
 
+this text is ~~strikedthrough~~
+this text is **bold**
+>this text is inside of a blockquote
 
 >this text is inside of a blockquote
 - Im a
