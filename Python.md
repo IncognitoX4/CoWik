@@ -110,3 +110,8 @@ except TypeError as descr:
 print("J:", fred)  
 fred[2][1] = 'cow'  
 print("K:", fred)
+
+
+``` { .html .foo .bar }
+<p>HTML Document</p>
+```
